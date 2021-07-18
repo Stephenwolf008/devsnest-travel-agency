@@ -1,6 +1,7 @@
 {
     "data": [{
             "place_name": "Goa",
+            "description": "Goa is a state on the southwestern coast of India within the region known as the Konkan, and geographically separated from the Deccan highlands by the Western Ghats.",
             "attractions": [{
                     "name": "Aguada Fort",
                     "url": "https://www.tourmyindia.com/states/goa/image/fort-aguada-goa.webp",
@@ -30,6 +31,7 @@
         },
         {
             "place_name": "Aurangabad",
+            "description": "Aurangabad is a city in the Indian state of Maharashtra. It is the administrative headquarters of Aurangabad district and is the largest city in the Marathwada region.",
             "attractions": [{
                     "name": "Ajanta Caves",
                     "url": "https://i.ytimg.com/vi/kgu6vcNLEC0/maxresdefault.jpg",
@@ -45,8 +47,7 @@
                 {
                     "name": "Grishneshwar Temple",
                     "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0a/5e/1b/7e.jpg",
-                    "description": "Grishneshwar Jyotirlinga Temple, sometimes referred to as the Ghrneshwar or Ghushmeshwar Temple, is one of the shrines dedicated to Lord Shiva that is referenced in the Shiva Purana. The word Ghrneshwara means '
-                    lord of compassion '"
+                    "description": "Grishneshwar Jyotirlinga Temple, sometimes referred to as the Ghrneshwar or Ghushmeshwar Temple, is one of the shrines dedicated to Lord Shiva that is referenced in the Shiva Purana. The word Ghrneshwara means lord of compassion"
 
                 },
                 {
@@ -60,6 +61,7 @@
         },
         {
             "place_name": "Delhi",
+            "description":"There are a number of myths and legends associated with the origin of the name Delhi. One of them is derived from Dhillu or Dilu, a king who built a city at this location in 50 BCE and named it after himself.",
             "attractions": [{
                     "name": "Red Fort",
                     "url": "https://images.indianexpress.com/2018/06/red-fort-1200-getty-images.jpg",
@@ -75,15 +77,13 @@
                 {
                     "name": "Qutub Minar",
                     "url": "http://bsmedia.business-standard.com/_media/bs/img/article/2018-01/21/full/1516510820-8279.jpg",
-                    "description": "The Qutb Minar, also spelled as Qutub Minar and Qutab Minar, is a minaret and '
-                    victory tower ' that forms part of the Qutb complex. It is a UNESCO World Heritage Site in the Mehrauli area of New Delhi, India."
+                    "description": "The Qutb Minar, also spelled as Qutub Minar and Qutab Minar, is a minaret and 'victory tower ' that forms part of the Qutb complex. It is a UNESCO World Heritage Site in the Mehrauli area of New Delhi, India."
 
                 },
                 {
                     "name": "India Gate",
                     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/India_Gate%2C_New_Delhi_at_Night.jpg/300px-India_Gate%2C_New_Delhi_at_Night.jpg",
-                    "description": "India Gate, official name Delhi Memorial, originally called All-India War Memorial, monumental sandstone arch in New Delhi, dedicated to the troops of British India who died in wars fought between 1914 and 1919. India Gate, which is located at the eastern end of the Rajpath (formerly called the Kingsway), is about 138 feet (42 metres) in height.
-                    "
+                    "description": "India Gate, official name Delhi Memorial, originally called All-India War Memorial, monumental sandstone arch in New Delhi, dedicated to the troops of British India who died in wars fought between 1914 and 1919. India Gate, which is located at the eastern end of the Rajpath (formerly called the Kingsway), is about 138 feet (42 metres) in height."
 
                 }
 
@@ -91,6 +91,7 @@
         },
         {
             "place_name": "Kashmir",
+            "description": "Kashmir is the northernmost geographical region of the Indian subcontinent. Until the mid-19th century, the term Kashmir denoted only the Kashmir Valley between the Great Himalayas and the Pir Panjal Range.",
             "attractions": [{
                     "name": "Gulmarg",
                     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gulmarg.JPG/1200px-Gulmarg.JPG",
@@ -120,6 +121,7 @@
         },
         {
             "place_name": "Pune",
+            "description": "Pune, known as Poona until 1978 , is the second-largest metropolitan city in the Indian State of Maharashtra and the seventh most populous city in India, with an estimated population of 7.4 million as of 2020.",
             "attractions": [{
                     "name": "Khandala",
                     "url": "https://images.thrillophilia.com/image/upload/s--Av8hSHpI--/c_fill,g_auto,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/178/699/original/1574493396_khandala-rajmachi-fort-157392790575-orijgp.jpg.jpg",
@@ -149,6 +151,7 @@
         },
         {
             "place_name": "Meghalaya",
+            "description": "Meghalaya is a state in Northeast India. Meghalaya was formed by carving out two districts from the state of Assam: the United Khasi Hills and Jaintia Hills, and the Garo Hills on 21 January 1972.",
             "attractions": [{
                     "name": "Shillong",
                     "url": "https://img.traveltriangle.com/blog/wp-content/uploads/2020/03/shillong.jpg",
@@ -178,6 +181,7 @@
         },
         {
             "place_name": "Hampi",
+            "description": "Hampi or Hampe, also referred to as the Group of Monuments at Hampi, is a UNESCO World Heritage Site located in east-central Karnataka, India. Hampi was the capital of the Vijayanagara Empire in the 14th century.",
             "attractions": [{
                     "name": "Vittala Temple",
                     "url": "https://adventurebuddha.com/wp-content/uploads/2020/07/Vijaya-Vittala-Temple-Hampi-1280x720.jpg",
